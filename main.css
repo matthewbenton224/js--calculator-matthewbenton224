@@ -1,0 +1,117 @@
+.clear {
+    border: solid;
+    width: 25px;
+}
+
+.output {
+    border: solid;
+    width: 50pxx;
+}
+
+.seven {
+    border: solid;
+    width: 25px;
+}
+
+.eight {
+    border: solid;
+    width: 25px;
+}
+
+.nine {
+    border: solid;
+    width: 25px;
+}
+
+.slash {
+    border: solid;
+    width: 25px;
+}
+
+.four {
+    border: solid;
+    width: 25px;
+}
+
+.five {
+    border: solid;
+    width: 25px;
+}
+
+.six {
+    border: solid;
+    width: 25px;
+}
+
+.multiply{
+    border: solid;
+    width: 25px;
+}
+
+.one {
+    border: solid;
+    width: 25px;
+}
+
+.two {
+    border: solid;
+    width: 25px;
+}
+
+.three {
+    border: solid;
+    width: 25px
+}
+
+.minus {
+    border: solid;
+    width:25px;
+}
+
+.zero {
+    border: solid;
+    width: 25px;
+}
+
+.period {
+    border: solid;
+    width: 25px;
+}
+
+.equals {
+    border: solid;
+    width: 25px;
+}
+
+.plus {
+    border: solid;
+    width: 25px;
+}
+
+.flexbox-one {
+    display: flex;
+}
+
+.flexbox-two {
+    display: flex;
+}
+
+.flexbox-three {
+    display: flex;
+}
+
+.flexbox-four {
+    display: flex;
+}
+
+.flexbox-five {
+    display: flex;
+}
+
+.calculator-container {
+    background-color: chartreuse;
+    width: fit-content;
+    margin-inline-start: 10px;
+    font-size: larger;
+    text-align:center;
+}
